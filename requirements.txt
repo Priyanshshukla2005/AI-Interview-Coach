@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+mediapipe
+librosa
+numpy
+pandas
+scikit-learn
+transformers
+fastapi
+uvicorn
